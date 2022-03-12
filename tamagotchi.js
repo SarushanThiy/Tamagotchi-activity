@@ -60,6 +60,6 @@ Gary.check;
 Gary.feed('Cookie');
 Gary.check();
 Mike.speak();
-Gary.play();
+
 
 
