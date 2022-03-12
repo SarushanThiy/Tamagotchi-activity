@@ -61,6 +61,8 @@ Gary.check;
 Gary.feed('Cookie');
 Gary.check();
 Mike.speak();
+Pika.speak();
+Pika.check();
 
 
 
