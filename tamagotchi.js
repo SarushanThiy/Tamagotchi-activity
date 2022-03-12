@@ -50,6 +50,7 @@ class Tamagotchi extends Pet {
 //New Tamagotchi
 let Mike = new Tamagotchi ("Mike", 6, 5)
 let Gary = new Pet ("Gary", 4, 10)
+let Pika = new Tamagotchi ("Pika", 4, 10)
 
 //Commands
 Gary.check();
